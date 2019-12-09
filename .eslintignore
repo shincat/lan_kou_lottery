@@ -1,0 +1,6 @@
+# 去掉旧的项目的eslint检查
+node_modules/
+tests/
+babel.config.js
+postcss.config.js
+src/
