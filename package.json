@@ -47,7 +47,7 @@
     "imagemin-jpegtran": "^6.0.0",
     "imagemin-pngquant": "^7.0.0",
     "img-loader": "^3.0.1",
-    "lint-staged": "^8.1.4",
+    "lint-staged": "^13.1.0",
     "postcss-loader": "^3.0.0",
     "postcss-px2rem": "^0.3.0",
     "postcss-pxtorem": "^4.0.1",
